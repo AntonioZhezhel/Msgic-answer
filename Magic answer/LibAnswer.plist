@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>It is certain</string>
+	<string>Without a doubt</string>
+	<string>You may rely on it</string>
+	<string>Outlook good</string>
+	<string>As I see it, yes</string>
+	<string>Reply hazy, try again</string>
+	<string>Better not tell you now</string>
+	<string>Cannot predict now</string>
+	<string>Don’t count on it</string>
+	<string>My sources say no</string>
+	<string>Very doubtful</string>
+</array>
+</plist>
